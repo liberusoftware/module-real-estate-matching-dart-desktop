@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-matching-dart-desktop",
+  "capabilityKey": "liberusoftware/real-estate-matching",
+  "presentation": "dart-desktop",
+  "package": "module_real_estate_matching_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/real-estate/nextjs/matching.md",
+  "presentationPlan": "projects/real-estate/features/matching.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
